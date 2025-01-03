@@ -1,24 +1,11 @@
 # Minimal Mistakes remote theme starter
 
 To test the website locally:
+```
 bundle install
 bundle exec jekyll serve
-
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
+```
+It can be done also by just clicking the play button on Visual Studio Code project.
 
 ## Troubleshooting
 
